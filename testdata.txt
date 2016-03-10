@@ -1,0 +1,5 @@
+This is a test
+Each line contains [many] <words>.
+The parser will ignore all non-alphabet characters!
+This means <html/> <tag/> like would have all words "extracted" without any non-alphabet characters, including digits.
+Bummmer! This also means we cann't test with a tree of numbers.  Perhaps modifying the parsing grammar to include numbers too.

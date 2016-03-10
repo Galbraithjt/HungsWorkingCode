@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>SE330</OriginalElement>
+  <nodes>
+    <node x="0.0" y="158.0">SE330.BalancedBST</node>
+    <node x="251.49363867684474" y="242.4402035623409">SE330.LinenumList</node>
+    <node x="25.5" y="79.0">SE330.BST</node>
+    <node x="192.15267175572524" y="319.83460559796436">SE330.WordsInLinesApp</node>
+    <node x="377.6793893129771" y="287.81933842239187">SE330.SLLNode</node>
+    <node x="7.0" y="0.0">SE330.BinaryTree</node>
+    <node x="356.63358778625945" y="102.70229007633587">java.lang.Comparable</node>
+    <node x="344.0877862595418" y="164.54452926208643">SE330.SLList</node>
+    <node x="8.0" y="237.0">SE330.WordsBST</node>
+    <node x="176.10432569974546" y="38.23155216284987">SE330.BinaryTreeNode</node>
+    <node x="223.23664122137382" y="122.06870229007632">SE330.Word</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="SE330.BST" target="SE330.BinaryTreeNode">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SE330.WordsBST" target="SE330.Word">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SE330.BalancedBST" target="SE330.BST">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="SE330.WordsInLinesApp" target="SE330.WordsBST">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SE330.Word" target="java.lang.Comparable">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="SE330.BinaryTree" target="SE330.BinaryTreeNode">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SE330.BinaryTreeNode" target="java.lang.Comparable">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SE330.WordsBST" target="SE330.BalancedBST">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="SE330.LinenumList" target="SE330.SLList">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="SE330.BST" target="SE330.BinaryTree">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="SE330.SLList" target="SE330.SLLNode">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SE330.Word" target="SE330.LinenumList">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.205529953917051" x="212.98982188295167" y="176.81039755351676" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
